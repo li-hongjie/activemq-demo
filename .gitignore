@@ -1,4 +1,4 @@
 # Project exclude paths
-/target/
-/.idea/
+**/target/
 acitvemq-study.iml
+/.idea/
